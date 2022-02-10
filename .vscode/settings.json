@@ -1,0 +1,14 @@
+{
+	"files.associations": {
+		"array": "c",
+		"*.tcc": "c",
+		"memory": "c",
+		"istream": "c",
+		"functional": "c",
+		"tuple": "c",
+		"utility": "c",
+		"krb5.h": "c",
+		"exam.h": "c",
+		"typeinfo": "c"
+	}
+}
